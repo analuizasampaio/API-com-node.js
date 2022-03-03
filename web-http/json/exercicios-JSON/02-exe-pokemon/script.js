@@ -33,7 +33,6 @@ const data = [
 //apresente no console todos os dados dos pokemons
 
 // DESAFIO: apresente os types fora da lista
-// até 15h45
 
 // COMEÇA O EXERCÍCIO
 
